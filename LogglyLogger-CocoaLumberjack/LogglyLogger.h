@@ -3,7 +3,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <CocoaLumberjack/CocoaLumberjack.h>
+@import CocoaLumberjack;
 #import <CocoaLumberjack/DDAbstractDatabaseLogger.h>
 
 
