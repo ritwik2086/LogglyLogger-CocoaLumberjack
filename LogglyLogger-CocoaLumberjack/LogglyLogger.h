@@ -4,6 +4,8 @@
 
 #import <Foundation/Foundation.h>
 @import CocoaLumberjack;
+#import "LogglyFields.h"
+#import "LogglyFormatter.h"
 #import <CocoaLumberjack/DDAbstractDatabaseLogger.h>
 
 
